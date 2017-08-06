@@ -87,6 +87,14 @@
             }
         },
         {
+            "Key": "811c0e97-fa71-4eac-adac-e6d3b1c2790c",
+            "Value": {
+                "id": "af9ee9a8-804e-4416-a36c-f27bde9d4f7d",
+                "resourcePath": "sprites\\spr_dog\\spr_dog.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "90fe62fc-fd3d-42b2-80bd-3b93c5f4a108",
             "Value": {
                 "id": "67773837-840f-4884-976e-e61c724eadf1",
